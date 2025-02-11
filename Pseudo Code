@@ -1,0 +1,9 @@
+How often do you train > 2
+Do you get injured alot | Yes 
+Did you play a soccer match recntly | Yes 
+If the user has not trained for more than 2 days 
+  tell the user "you need to train"
+If the user gets injured alot 
+  tell the user "you really need to train" 
+If the user has recently played a soccer match 
+  tell the user "please train after your soccer match!"
